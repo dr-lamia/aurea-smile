@@ -1,0 +1,28 @@
+# Node.js (Next.js)
+node_modules/
+.next/
+out/
+.env*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (FastAPI)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+*.sqlite3
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
